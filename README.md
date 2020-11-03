@@ -10,8 +10,8 @@
 
 ## Download Manually
 
-- 从 Github 仓库下载 `.zip` 包
-- 文件夹解压重命名为 `Theme Soda++`
+- 从 Github 仓库下载 [`.zip`](https://github.com/xianghongai/Theme-Soda/archive/main.zip) 包
+- 解压之后文件夹重命名为 `Theme Soda++`
 - 移动到 `Preferences`  → `Browse Packages...` 目录
 - 然后设定 `Theme...` 和 `Color Scheme...`
 
